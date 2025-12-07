@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "EspressoExpress.sln"
+    "dotnet.defaultSolution": "EspressoExpress copy.sln"
 }
